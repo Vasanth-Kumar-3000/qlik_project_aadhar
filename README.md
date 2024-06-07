@@ -43,12 +43,22 @@ The number of unique visualizations that can be created with a given dataset. So
 
 
 
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/d95d3b4b-2242-4eb6-a8ea-2f265243cadb)
+
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/7dcf2139-321a-45c7-9d45-0d4aa6e93ecd)
 
 
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/ef8f6340-e27d-4328-b705-f2d943250ba0)
 
 
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/573d695e-2f42-4fb0-99ab-31e48f356290)
+
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/ec947559-959e-438f-8928-960c9567cb0a)
+
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/bac40af4-2ac9-4c05-b732-fabbe50e80b1)
 
 
+![image](https://github.com/Vasanth-Kumar-3000/qlik_project_aadhar/assets/96530373/ac0f4296-bcf0-4e55-a889-a87e134b64c4)
 
 
 # 6. Dashboard
